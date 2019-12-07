@@ -1,12 +1,12 @@
 # Hsinchu
-Visual Communication Design 
-Lettering&Typography
-Computer Design Application
-Computer Graphics
-VIS
-Design planning and Survey
-Visual Perception
-Illustration
+#### Visual Communication Design 
+#### Lettering&Typography
+#### Computer Design Application
+#### Computer Graphics
+#### VIS
+#### Design planning and Survey
+#### Visual Perception
+#### Illustration
 
 
 # Projects

@@ -1,5 +1,9 @@
-# Hsinchu
-# 國立臺北商業大學 創意設計與經營研究所
+# YU LIU 劉 昱
+# Taiwan Hsinchu
+
+# 國立臺北商業大學 創意設計與經營研究所 碩士
+# 玄奘大學 視覺設計學系 藝術學學士
+
 ## Professional
 #### Visual Communication Design 
 #### Lettering&Typography
